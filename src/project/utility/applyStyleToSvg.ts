@@ -1,0 +1,5 @@
+const applyStyleToSvg = () => {
+    
+};
+
+export { applyStyleToSvg };

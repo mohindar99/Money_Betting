@@ -1,0 +1,7 @@
+contracts deployedin polygon mumbai test nets:
+
+rock-papper-scissors :
+contract deployed address: 0x798c6D8df7ef7d50f2402e00F84a166fdd95faf8
+
+cup_game :
+contract deployed address : 0x22A9b261aB3bF4Ac6f21dbFA06C4cc72ED8571B5
