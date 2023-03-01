@@ -4,6 +4,8 @@
 
 ### This is a smart contract which was written to distribute the winners rewards based on the betting games like rock,paper and scissors or a cup game which is played by the users in the front-end.
 
+It was created using [OpenZeppline](https://www.openzeppelin.com/) by inheriting Ownable contract.
+
 ## Functionality :
  The main working of the smart contract lies that the user would bet some amount when he creates a bet with the another user . Once the second user joins the room in the front-end the room would be locked and both users would pay the betting amount which was created by the first user to the escort smart contract . As soon as the game completed the backend team would send the winners address to the escort smart contract . The contract verifies the winner and would validates the address between both users and cut 2% service fee from the final bet amount. The final amount after the service fee deduction would be sent to the winner of the game.
  
