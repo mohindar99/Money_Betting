@@ -24,7 +24,7 @@ It was created using [OpenZeppline](https://www.openzeppelin.com/) by inheriting
   Polygon Mumbai deployment :
   - Java script
   - Hardhat configuration.
-  - A free Infura Project Id key for Polygon mumbai testnet.
+  - A free [Infura](https://www.infura.io/) Project Id key for Polygon mumbai testnet.
   - Polygonscan of mumbai net url 
   - A private key of the meta mask account 
   
